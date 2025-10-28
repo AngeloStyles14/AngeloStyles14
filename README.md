@@ -1,5 +1,6 @@
 # 👋 ¡Hola! Soy Angelo | 👋 Hi! I'm Angelo
 #perfil en proceso
+
 🎓 Desarrollador educativo con sensibilidad visual, ética pedagógica y pasión por el aprendizaje colaborativo. Me especializo en transformar procesos técnicos en experiencias claras, accesibles y atractivas para públicos jóvenes.
 
 🎓 Educational developer with visual sensitivity, pedagogical ethics, and a passion for collaborative learning. I specialize in turning technical processes into clear, accessible, and engaging experiences for young audiences.
